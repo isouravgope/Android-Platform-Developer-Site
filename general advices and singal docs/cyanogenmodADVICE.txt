@@ -1,0 +1,16 @@
+
+I really dislike the "chef" moniker when it comes to Android, since we are more of an open-source community. I think it implies a "file pusher" mentality. But then again, I am biased against proprietary versions of Android like Sense, so feel free to disregard all of this.
+
+Here's my advice for those looking to make their own Android ROMs.. Stop. Write an app or two first, learn how the system works from a developer standpoint. Learn some Java. Read the developer documentation. Learn how to use Git. Then learn how to build AOSP from source. Read the porting guides, and learn how the build system works (the links below have almost everything you could possibly want to know). Now try to put your new found skills to work on enhancing the platform by writing code or making theme overlays. And share! And put that **** on your resume. There is a *ton* of information out there but any kind of "step-by-step rom cooking guide" is going to be a complete fail- it's too broad of a subject.
+
+Android Developer Guides: http://d.android.com
+Working with AOSP source: http://source.android.com
+Platform Developer Guide: http://pdk.android.com
+Android Gitweb: http://android.git.kernel.org
+Git Ready (Git tips and tricks): http://www.gitready.com/
+Building CyanogenMod: http://wiki.cyanogenmod.com/index.php/Building_from_source
+How Dexopt works and what are those odex files: http://android.git.kernel.org/?p=pl...bcd225e47b2cc7abb2a366112d3aeb45936;hb=master
+
+The PDK site is absolutely vital if you are going to work on custom ROMs. Read every single page. Twice. Some of the info isn't up to date, but you'll get a really good idea about what goes into actually configuring Android to work on a real device.
+ 
+
