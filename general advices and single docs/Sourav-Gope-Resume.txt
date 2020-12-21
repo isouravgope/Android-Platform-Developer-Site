@@ -1,0 +1,45 @@
+Sourav Gope
+
+https: //www. Linkedin.com/in/theglitchh | https://theglitchh.github.io
+
++91 9366855940 | souravgope765@gmail.com | github.com/theglitchh
+
+Professional Summary
+
+A highly skilled android application developer and an extremist over Linux kernel with Android programming (apps/Source) experience currently looking for a full-time opportunity to design and build high performance and optimized solutions for challenging digital world problems.
+
+Education
+
+B.TECH (CSE) | 2019-Present | TECHNO COLLEGE OF ENGINEERING, AGARTALA
+HSC | 2019 | ASSAM RIFLES PUBLIC SCHOOL, AGARTALA
+SSC | 2017 | ASSAM RIFLES HIGH SCHOOL, TELIAMURA
+
+Skills
+
+DEVELOPMENT: C, JAVA, PYTHON, C++
+
+APPLICATIONS
+
+MOBILE TECHNOLOGIES: JAVA, XML, ANDROID, ANDROID SDK
+EMBEDDED SYSTEMS: C, OPERATING SYSTEM(ANDROID)
+
+OTHER: GIT, gtk, ARDUINO
+
+Experience
+
+OPERATING SYSTEM:
+OFFICIAL DEVICE MAINTAINER           | NITROGEN OS (2018 - 2019)
+OFFICIAL DEVICE MAINTAINER           | COSMIC OS (2019-2020)
+
+KERNEL PROJECTS:
+DEVELOPER OF BEETLE KERNEL           | https://bit.ly/37Azx6b
+
+UI/UX (ANDROID):
+DEVELOPER OF STOCK SHADOW THEME      | https://bit.ly/38iQ5Pq
+
+UI/UX (GNOME DESKTOP GTK):
+DARK VIOLET GTK 3.20+ THEME          | https://bit.ly/3atH8FC
+
+OTHERS:
+DEVELOPER OF HackathonAppAgriculture | https://bit.ly/2KpSEHc
+WINNER OF TIG HACKATHON 2020 INDIA   | https://bit.ly/3reIcDb
