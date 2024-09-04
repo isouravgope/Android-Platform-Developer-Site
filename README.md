@@ -1,25 +1,17 @@
-#Developers hands on guide related to Android , Linux , UI/UX
-
-// by theglitchh
-//on behalf of glitchh org.
-
-**androidplatformguide**
-it consist of an archive of the platform developers guide
-it consist of all the infos related to hals, binaries, drivers basically android source in general
-
-
-**Kernel stuff** 
-it consist of several docs related to kernel development
-//Upstream.jpg consist of the git codes to upstream an android kernel
-//
-//
-//
-
-**general advices and single docs**
-it consist of all the guides and directions by all great developers
-//cyanogenmodADVICE.txt consist of all the advices given by CYANOGENMOD (google cyanogen you will get it)
-//SELinuxEnforcing.txt consist of the adressing sepolicy denials using android source
-//
-//
-//
+# compiled ver of "pdk-docs" - online-pdk
+<br>==========================<br>
+"site" is published at http://wladimir-tm4pda.github.io
+<br>==========================<br>
+<br> assum. that there are no this info at dev.google already
+<br> but still available src of this docs at https://android.googlesource.com/platform/development/
+<br> //but only at ics-plus-aosp brunch - last occurence; at jb - there are no this;
+<br>==========================<br>
+<br> 'compiled' aac. to rec. at https://android.googlesource.com/platform/development/+/ics-plus-aosp/pdk/README 
+<br> also added file https://android.googlesource.com/platform/frameworks/base/+/gingerbread/include/camera/CameraHardwareInterface.h -- for compilation
+<br>==========================<br>
+<br> addit. info:
+https://pages.github.com/
+<br>
+https://help.github.com/categories/github-pages-basics/
+<br>==========================<br>
 

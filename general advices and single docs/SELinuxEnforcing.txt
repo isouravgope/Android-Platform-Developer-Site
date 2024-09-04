@@ -1,8 +1,0 @@
-//audit to allow
-
-cd out/target/prod*/tulip/recovery/root
-
-
-cat logcat.txt | grep avc | ~/romfoldername/external/selinux/prebuilts/bin/audit2allow -p sepolicy > d.txt
-
-logcat.txt logcatname.txt
